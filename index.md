@@ -8,5 +8,5 @@ title: Redirect Service
 - [/scholar](scholar) - Google Scholar Profile
 - [/linkedin](linkedin) - LinkedIn Profile
 - [/github](github) - GitHub Profile
-- [/x](X) - X Profile
+- [/x](x) - X Profile
 - [/stackoverflow](stackoverflow) Stack Overflow Profile
